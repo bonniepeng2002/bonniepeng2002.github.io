@@ -81,7 +81,16 @@ const konradLogo = <img src="konrad.png" />;
 
 export const experience = [
   {
-    role: "Software Engineer",
+    role: "Junior Developer",
+    company: "1Password",
+    time: "Sept 2025 - Present",
+    tools: ["Ansible", "Terraform", "Kubernetes", "AWS", "GHA"],
+    desc: "Delivery Platform Team.",
+    logo: onepasswordLogo,
+    bgColor: colors.blue,
+  },
+  {
+    role: "Software Engineer Intern",
     company: "Konrad Group",
     time: "May - Aug 2024",
     tools: [
@@ -98,7 +107,7 @@ export const experience = [
     bgColor: colors.orange,
   },
   {
-    role: "DevOps Engineer",
+    role: "DevOps Engineer Intern",
     company: "1Password",
     time: "Jan - Apr 2024",
     tools: ["TypeScript", "Python", "Kubernetes", "Helm", "AWS", "TartVM"],
@@ -107,7 +116,7 @@ export const experience = [
     bgColor: colors.blue,
   },
   {
-    role: "Software Development Engineer",
+    role: "Software Development Engineer Intern",
     company: "Amazon",
     time: "May - Aug 2023",
     tools: ["Java", "AWS", "Redjack", "Lumos", "Dagger"],
@@ -116,7 +125,7 @@ export const experience = [
     bgColor: colors.orange,
   },
   {
-    role: "DevOps Engineer",
+    role: "DevOps Engineer Intern",
     company: "BDO Canada",
     time: "Sept - Dec 2022",
     tools: [
@@ -151,7 +160,7 @@ export const experience = [
     bgColor: colors.pink,
   },
   {
-    role: "Software Engineer",
+    role: "Software Engineer Intern",
     company: "Ampli, RBC Ventures",
     time: "May - Aug 2021",
     tools: [
