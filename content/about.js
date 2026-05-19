@@ -1,9 +1,9 @@
 export const p1 = (
   <p>
-    Nice to meet you, my name is Bonnie and I’m a Computer Science student at
+    Nice to meet you, my name is Bonnie and I’m a Computer Science alum at
     the University of Waterloo! I’m interested in creating technologies that
-    puts underrepresented communities first, with the hopes of achieving a more
-    inclusive digital world.
+    enables creative opportunities around the world, and builds a digital
+    community of artists and innovators.
   </p>
 );
 
